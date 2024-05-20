@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mso\\source\\repos\\GUI_Test\\GUI_Test\\GUI_Test.csproj": {}
+    "C:\\Users\\MSo\\source\\repos\\ARIEL_Automation_GUI\\GUI_Test\\GUI_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mso\\source\\repos\\GUI_Test\\GUI_Test\\GUI_Test.csproj": {
+    "C:\\Users\\MSo\\source\\repos\\ARIEL_Automation_GUI\\GUI_Test\\GUI_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mso\\source\\repos\\GUI_Test\\GUI_Test\\GUI_Test.csproj",
+        "projectUniqueName": "C:\\Users\\MSo\\source\\repos\\ARIEL_Automation_GUI\\GUI_Test\\GUI_Test.csproj",
         "projectName": "GUI_Test",
-        "projectPath": "C:\\Users\\mso\\source\\repos\\GUI_Test\\GUI_Test\\GUI_Test.csproj",
-        "packagesPath": "C:\\Users\\mso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mso\\source\\repos\\GUI_Test\\GUI_Test\\obj\\",
+        "projectPath": "C:\\Users\\MSo\\source\\repos\\ARIEL_Automation_GUI\\GUI_Test\\GUI_Test.csproj",
+        "packagesPath": "C:\\Users\\MSo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MSo\\source\\repos\\ARIEL_Automation_GUI\\GUI_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -62,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }
